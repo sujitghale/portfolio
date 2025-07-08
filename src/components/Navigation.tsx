@@ -1,8 +1,9 @@
-import { useState } from 'react';
+interface NavigationProps {
+  activeSection: string;
+  setActiveSection: (section: string) => void;
+}
 
-const Navigation = () => {
-  const [activeSection, setActiveSection] = useState('home');
-
+const Navigation = ({ activeSection, setActiveSection }: NavigationProps) => {
   const navItems = [
     { id: 'home', label: '> HOME' },
     { id: 'about', label: '> ABOUT' },
@@ -12,11 +13,6 @@ const Navigation = () => {
 
   const handleNavClick = (sectionId: string) => {
     setActiveSection(sectionId);
-    // Smooth scroll to section
-    const element = document.getElementById(sectionId);
-    if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
-    }
   };
 
   return (

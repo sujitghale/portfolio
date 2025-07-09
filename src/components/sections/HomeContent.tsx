@@ -4,7 +4,9 @@ import SocialMedia from '../SocialMedia';
 const HomeContent = () => {
   const introTexts = [
     "Hi I am Sujit Ghale",
-    "I don't know what I am doing"
+    "A computer science student",
+    "I don't know what I am doing !"
+    
   ];
 
   return (

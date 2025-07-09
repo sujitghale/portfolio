@@ -20,7 +20,7 @@ const Navigation = ({ activeSection, setActiveSection }: NavigationProps) => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex justify-between items-center">
           <div className="terminal-prompt font-bold text-lg">
-            SUJIT_GHALE.EXE
+            SUJIT_GHALE
           </div>
           
           <div className="flex space-x-8">

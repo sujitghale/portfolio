@@ -26,10 +26,10 @@ const ProjectsContent = () => {
           </div>
           
           <div className="terminal-text pl-4 space-y-2">
-            <div>[INFO] Project 1: In Development 🚧</div>
-            <div>[INFO] Project 2: Coming Soon™ ⏳</div>
-            <div>[INFO] Project 3: Debugging Reality 🐛</div>
-            <div>[WARN] Project 4: Classified 🔒</div>
+            <div>[INFO] Project 1: parkease</div>
+            <div>[INFO] Project 2: coneflix</div>
+            <div>[INFO] Project 3: autoclock</div>
+            <div>[WARN] Project 4: Coming Soon™ ⏳</div>
             <div>[SUCCESS] Portfolio: You are here! 📍</div>
           </div>
         </div>

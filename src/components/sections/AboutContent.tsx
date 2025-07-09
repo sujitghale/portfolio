@@ -12,7 +12,7 @@ const AboutContent = () => {
         <div className="terminal-text pl-4 space-y-3">
           <div>{'{'}</div>
           <div className="pl-4">"name": "Sujit Ghale",</div>
-          <div className="pl-4">"role": "Full Stack Developer",</div>
+          <div className="pl-4">"role": "Full Stack Developer [maybe]",</div>
           <div className="pl-4">"location": "Earth",</div>
           <div className="pl-4">"languages": ["JavaScript", "TypeScript", "Python"],</div>
           <div className="pl-4">"frameworks": ["React", "Node.js", "Express"],</div>

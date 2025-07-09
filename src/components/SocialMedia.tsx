@@ -11,25 +11,25 @@ const SocialMedia = () => {
     {
       name: 'LinkedIn',
       icon: Linkedin,
-      url: 'https://linkedin.com/in/sujitghale',
+      url: 'https://www.linkedin.com/in/sujitghale0110/',
       color: 'hover:text-blue-400'
     },
     {
       name: 'Twitter',
       icon: Twitter,
-      url: 'https://twitter.com/sujitghale',
+      url: 'https://twitter.com/@GhalePaat65048',
       color: 'hover:text-blue-400'
     },
     {
       name: 'Instagram',
       icon: Instagram,
-      url: 'https://instagram.com/sujitghale',
+      url: 'https://instagram.com/ghale2oo4',
       color: 'hover:text-pink-400'
     },
     {
       name: 'Email',
       icon: Mail,
-      url: 'mailto:sujit@example.com',
+      url: 'mailto:sujitghale0110@gmail;.com',
       color: 'hover:text-green-400'
     }
   ];

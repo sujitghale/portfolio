@@ -21,16 +21,16 @@ const ContactContent = () => {
 
         <div className="space-y-3 pt-4">
           <div className="flex items-center space-x-2">
-            <span className="terminal-prompt">sujit@portfolio:~$</span>
+            <span className="terminal-prompt">sujit_ghale@portfolio:~$</span>
             <span className="terminal-text">cat contact_info.txt</span>
           </div>
           
           <div className="terminal-text pl-4 space-y-2">
-            <div>📧 Email: sujit@example.com</div>
+            <div>📧 Email: sujitghale0110@gmail.com</div>
             <div>🌐 Location: Somewhere on Earth</div>
-            <div>⏰ Timezone: Always coding time</div>
+            <div>⏰ Timezone: Always good time</div>
             <div>📱 Response Time: Usually within 24 hours</div>
-            <div>☕ Best Contact Time: After coffee</div>
+            <div>📞 Best Contact Time: whenever you want </div>
           </div>
         </div>
 
@@ -41,7 +41,7 @@ const ContactContent = () => {
         <div className="space-y-2 pt-4">
           <div className="flex items-center space-x-2">
             <span className="terminal-prompt">sujit@portfolio:~$</span>
-            <span className="terminal-text">echo "Let's build something amazing together!"</span>
+            <span className="terminal-text">echo "Let's build something !"</span>
           </div>
           <div className="terminal-text opacity-80 pl-4">
             Let's build something amazing together!
